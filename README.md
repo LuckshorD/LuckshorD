@@ -1,10 +1,12 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Diego S. Santos and my nickname is "LuckshorD"!
+
 
 <!--
 **LuckshorD/LuckshorD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+- 🎓 
+- 🎓 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
